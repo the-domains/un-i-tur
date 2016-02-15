@@ -1,0 +1,28 @@
+name: Un-i-Tur
+favicon: null
+layout_spectrum: 0.34753634012304246
+typography_spectrum: 0.7327395288739353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21829235251061618
+  lightness: 0.05834882031194866
+  saturation: 0.004459564574062824
+  rhythmicContrast: 0.43283534911461174
+purpose: []
